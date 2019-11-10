@@ -1,0 +1,9 @@
+{
+  "dbconfig" : {
+    "db_host" : "127.0.0.1",
+    "db_port" : 3306,
+    "db_user" : "root",
+    "db_password" : "dbswngP3841!",
+    "db_name" : "test"
+  }
+}
